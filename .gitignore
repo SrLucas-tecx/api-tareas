@@ -1,0 +1,4 @@
+# Con los archivos package-lock.json y package.json
+# se pueden instalar los modulos de Node.js.
+# Son pesados así que también los ignoramos:
+node_modules/
